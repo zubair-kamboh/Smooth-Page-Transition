@@ -1,0 +1,1 @@
+{"version":3,"sources":["styles\\main.scss"],"names":[],"mappings":"AAAA;AAEA;EACC;EACA;EACA;;;AAGD;EACC;;AACA;EACC","file":"js.00a46daa.css","sourceRoot":"..\\src","sourcesContent":["/** @format */\r\n\r\n* {\r\n\tpadding: 0px;\r\n\tmargin: 0px;\r\n\tbox-sizing: border-box;\r\n}\r\n\r\nbody {\r\n\tbackground-color: lightblue;\r\n\th2 {\r\n\t\tcolor: green;\r\n\t}\r\n}\r\n"]}
